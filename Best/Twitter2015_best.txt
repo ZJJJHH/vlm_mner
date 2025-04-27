@@ -1,0 +1,8 @@
+2025-04-12 09:54:14,636 - INFO - 开始测试
+2025-04-12 10:21:29,651 - INFO - PER: Precision: 0.8569, Recall: 0.8706, F1: 0.8637
+2025-04-12 10:21:29,890 - INFO - LOC: Precision: 0.7775, Recall: 0.8642, F1: 0.8186
+2025-04-12 10:21:30,132 - INFO - ORG: Precision: 0.6599, Recall: 0.5257, F1: 0.5852
+2025-04-12 10:21:30,372 - INFO - OTHER: Precision: 0.3829, Recall: 0.4989, F1: 0.4333
+2025-04-12 10:21:30,372 - INFO - test set evaluation : Precision: 0.7301, Recall: 0.7583, F1: 0.7439
+2025-04-12 10:21:30,372 - INFO - 
+
