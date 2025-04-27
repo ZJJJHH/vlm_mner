@@ -1,0 +1,2 @@
+Tokens:   At Oracle Arena , the home of the Golden State Warriors , Kyrie Irving is facing off against Stephen Curry .
+Labels:   O B-LOC I-LOC O O O O O B-ORG I-ORG I-ORG O B-PER I-PER O O O O B-PER I-PER O
